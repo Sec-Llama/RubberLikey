@@ -1,7 +1,7 @@
 # 🦆 RubberLikey
 
 **Test your USB Rubber Ducky payloads – no hardware required.**  
-`DuckyScriptExamine.py` is a cross-platform Python tool that emulates DuckyScript payloads locally, letting you debug and refine `payload.txt` files before flashing the real device.
+`RubberLikey.py` is a cross-platform Python tool that emulates DuckyScript payloads locally, letting you debug and refine `payload.txt` files before flashing the real device.
 
 ---
 
