@@ -24,8 +24,8 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-user>/DuckyScriptExamine.git
-cd DuckyScriptExamine
+git clone https://github.com/Sec-Llama/RubberLikey.git
+cd RubberLikey
 pip install pynput
 ```
 
@@ -35,12 +35,12 @@ pip install pynput
 
 ### Basic run
 ```bash
-python DuckyScriptExamine.py payload.txt
+python RubberLikey.py payload.txt
 ```
 
 ### Realistic typing & pacing
 ```bash
-python DuckyScriptExamine.py payload.txt --realistic
+python RubberLikey.py payload.txt --realistic
 ```
 
 ---
@@ -53,7 +53,7 @@ DELAY 300
 STRING notepad
 ENTER
 DELAY 500
-STRING Hello from DuckyScriptExamine!
+STRING Hello from RubberLikey!
 ENTER
 ```
 
